@@ -1,7 +1,7 @@
 # InteractiveColorGame
 This is a color guessing game to improve your Hexcode rgb knowledge.
 
-It gives you 2 modes and they are : Hard or easy.
+It gives you 2 modes and they are : Hard/easy.
 
 Hard mode gives you 6 squares, and also display's a color code in hex on the top of it.
 
