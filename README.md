@@ -13,4 +13,4 @@ Easy mode is very similar, except you are displayed a color grid of 3 squares.
 
 Feel free to check out the game, and tell me if there are any changes to be done!!
 
-Its a very satisfying game, do play it...
+Its a very satisfying game, do play it!
